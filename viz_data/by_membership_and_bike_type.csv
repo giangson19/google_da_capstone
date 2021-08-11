@@ -1,0 +1,7 @@
+member_casual,rideable_type,mean_ride_length,number_of_rides
+casual,docked_bike,3162.746526912171,1071021
+casual,electric_bike,1298.6042121096143,373637
+casual,classic_bike,1915.2295858032735,265526
+member,docked_bike,1000.8775845064891,1260347
+member,electric_bike,808.6218587325923,514641
+member,classic_bike,884.9551719306015,578053
